@@ -13,8 +13,8 @@ export const projectData = [
 		id: 1,
 		projectName: "Personal Portfolio",
 		tags: "React, CSS, Bootstrap",
-		code: "https://github.com/AQSA-964/Voting-App",
-		demo: "https://github.com/AQSA-964/Voting-App",
+		code: "https://github.com/AQSA-964/Portfolio-website",
+		demo: "https://aqsa-964.github.io/Portfolio-website/",
 		imageUrl: img1,
 	},
 	{
