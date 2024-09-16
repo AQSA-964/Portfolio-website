@@ -1,0 +1,57 @@
+.exp-img {
+	height: 270px;
+	width: 300px;
+	object-fit: fill;
+}
+
+.img2-set {
+	padding-top: 180px;
+	padding-left: 60px;
+}
+
+.edu-col {
+	background-color: #573657;
+	font-family: "Poppins", sans-serif;
+	color: white;
+	padding: 10px 20px;
+}
+.edu-col:hover {
+	background-color: #8a4e8a;
+	color: white;
+}
+.course-txt {
+	font-size: 18px;
+	font-weight: 700;
+}
+.instit-txt {
+	font-size: 16px;
+}
+.date-txt {
+	font-size: 14px;
+}
+
+@media (min-width: 768px) {
+	.img1-set {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.edu-col {
+		padding: 0px 0px;
+	}
+}
+@media (max-width: 576px) {
+	.edu-col {
+		padding: 0px 0px;
+	}
+	.course-txt {
+		font-size: 16px;
+		font-weight: 700;
+	}
+	.instit-txt {
+		font-size: 14px;
+	}
+	.date-txt {
+		font-size: 12px;
+	}
+}

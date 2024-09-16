@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@100..900&display=swap");
+
+.box {
+	background: #0c0b22;
+	box-shadow: 0px 0px 20px 5px rgba(252, 84, 18, 0.15);
+	border-radius: 10px;
+	width: 160px;
+	height: 170px;
+	color: rgb(255, 255, 255);
+	padding: 2rem 1rem;
+	transition: 300ms ease-in-out;
+	font-size: 22px;
+	font-family: "Big Shoulders Text", sans-serif;
+}
+
+.box:hover {
+	transform: scale(1.08);
+}
+
+.box img {
+	height: 50px;
+	pointer-events: none;
+}
+
+@media (max-width: 576px) {
+	.box {
+		width: 130px;
+		height: 140px;
+		font-size: 17px;
+	}
+}

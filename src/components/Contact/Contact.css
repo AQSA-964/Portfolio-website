@@ -1,0 +1,40 @@
+.btn1 {
+	background: linear-gradient(270deg, #da7c25 0.36%, #b923e1 102.06%);
+	padding: 8px 25px;
+	border-radius: 25px;
+	font-size: 16px;
+	cursor: pointer;
+	transition: 0.4s;
+	color: white;
+}
+
+.btn1:hover {
+	transform: scale(1.08);
+}
+
+.icon {
+	display: flex;
+	align-items: start;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.icon-size {
+	font-size: 25px;
+	transition: 0.4s;
+}
+
+.icon-size:hover {
+	transform: scale(1.2);
+}
+
+.icon-pad {
+	padding-left: 80px;
+}
+
+@media (max-width: 768px) {
+	.icon-pad {
+		padding-left: 10px;
+		padding-top: 30px;
+	}
+}

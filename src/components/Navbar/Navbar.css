@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.nav-link {
+	color: white !important;
+}
+
+.nav-link:focus {
+	outline: none;
+	box-shadow: none;
+}
+
+/* .nav-link.active1 {
+	color: white;
+	background-color: transparent;
+	border: none;
+} */
+
+.navbar .nav-link,
+.navbar .btn {
+	color: white;
+}
+
+.navbar-brand {
+	font-family: "Archivo Black", sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	color: rgb(218, 215, 215);
+	/* background: linear-gradient(90deg, #e16d00 20%, #f3eaf5 100%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent; */
+}
+
+.btn1 {
+	background: linear-gradient(270deg, #da7c25 0.36%, #b923e1 102.06%);
+	padding: 10px 18px;
+	border-radius: 25px;
+	font-size: 16px;
+	cursor: pointer;
+	transition: 0.4s;
+}
+
+.btn1:hover {
+	transform: scale(1.05);
+}
+
+.navbar-nav {
+	gap: 25px;
+	font-family: "Poppins", sans-serif;
+}
+
+.nav-item {
+	padding: 0 9px;
+	background: transparent;
+	border-radius: 22px;
+	transition: transform 0.3s ease;
+}
+.active1,
+.nav-item:hover {
+	background: linear-gradient(90deg, #c64392 40%, #a903d6 100%);
+}
+
+.navitem-ml {
+	margin-left: 15rem;
+}
+
+.navbar-toggler {
+	border-color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar-toggler-icon {
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+@media (max-width: 991px) {
+	.navitem-ml {
+		margin-left: 0;
+	}
+}
