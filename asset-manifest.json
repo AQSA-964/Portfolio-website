@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio-website/static/css/main.7d9ca16e.css",
-    "main.js": "/Portfolio-website/static/js/main.0ca5f9f7.js",
-    "static/media/landing page.png": "/Portfolio-website/static/media/landing page.f7ae8cd68d5949d3a2a5.png",
+    "main.js": "/Portfolio-website/static/js/main.3efca329.js",
     "static/media/Aqsa Jabeen Resume.pdf": "/Portfolio-website/static/media/Aqsa Jabeen Resume.b9d87c4faeaa50b46d52.pdf",
     "static/media/weather app.png": "/Portfolio-website/static/media/weather app.3aec61d858a069bcd9a6.png",
     "static/media/p1.png": "/Portfolio-website/static/media/p1.843e6b20031668e13423.png",
+    "static/media/landing page.png": "/Portfolio-website/static/media/landing page.d09de8adc7d0d7019aba.png",
     "static/media/education.png": "/Portfolio-website/static/media/education.68e2c08a42926cd152b2.png",
     "static/media/experience.png": "/Portfolio-website/static/media/experience.dbd834f4bec10ead19a4.png",
     "static/media/quiz app.png": "/Portfolio-website/static/media/quiz app.26b934966d49c422620f.png",
@@ -27,10 +27,10 @@
     "static/media/css.svg": "/Portfolio-website/static/media/css.43b6f4bdbc0f36b9f2dd15c6ebbcea15.svg",
     "static/media/html.svg": "/Portfolio-website/static/media/html.6a342d61e4fe710cf3e5c05b65b0ac87.svg",
     "main.7d9ca16e.css.map": "/Portfolio-website/static/css/main.7d9ca16e.css.map",
-    "main.0ca5f9f7.js.map": "/Portfolio-website/static/js/main.0ca5f9f7.js.map"
+    "main.3efca329.js.map": "/Portfolio-website/static/js/main.3efca329.js.map"
   },
   "entrypoints": [
     "static/css/main.7d9ca16e.css",
-    "static/js/main.0ca5f9f7.js"
+    "static/js/main.3efca329.js"
   ]
 }
