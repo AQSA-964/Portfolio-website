@@ -77,8 +77,8 @@ export const projectData = [
 		id: 9,
 		projectName: "Landing Page",
 		tags: "HTML, CSS, Javascript",
-		code: "https://github.com/AQSA-964/Landing-Page",
-		demo: "https://aqsa-964.github.io/Landing-Page/",
+		code: "https://github.com/AQSA-964/Bookmark-landing-page",
+		demo: "https://aqsa-964.github.io/Bookmark-landing-page/",
 		imageUrl: img9,
 	},
 ];
