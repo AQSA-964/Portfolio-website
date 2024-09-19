@@ -26,7 +26,7 @@
 	font-family: "Archivo Black", sans-serif;
 	font-weight: 700;
 	font-size: 40px;
-	color: rgb(218, 215, 215);
+	color: rgb(218, 215, 215) !important;
 	/* background: linear-gradient(90deg, #e16d00 20%, #f3eaf5 100%);
 	background-clip: text;
 	-webkit-background-clip: text;
